@@ -3,7 +3,7 @@
 </p>
 
 <div>
-<img align="right" width="400" alt="cy" src="https://cdn.discordapp.com/attachments/1132603422785413162/1140911180832059402/ae0e82598a79677cbf9bc2fd4638d74c.jpg"/>
+<img align="right" width="400" alt="Cy" src="https://cdn.discordapp.com/attachments/1132603422785413162/1140911180832059402/ae0e82598a79677cbf9bc2fd4638d74c.jpg"/>
 
 <h2> // about-me </h2>
 
