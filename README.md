@@ -1,19 +1,20 @@
 <p align = center >
-  <img src="https://media.discordapp.net/attachments/1115665221730713710/1115665355105374268/Untitled-1.png?width=932&height=524">
+  <img src="https://cdn.discordapp.com/attachments/1115665221730713710/1115665355105374268/Untitled-1.png">
 </p>
 
 <div>
-<img align="right" width="400" alt="cy" src="https://cdn.discordapp.com/attachments/850674572297633812/1121700678549647370/20eacfc1d03089decc0463caee24e6bc.jpg"/>
+<img align="right" width="400" alt="cy" src="https://cdn.discordapp.com/attachments/1132603422785413162/1140911180832059402/ae0e82598a79677cbf9bc2fd4638d74c.jpg"/>
 
 <h2> // about-me </h2>
 
--  <a href="https://discord.gg/revshit">Revshit 火</a>
+- 💗 15 | Philippines
+- 🧊 <a href="https://discord.gg/revshit">Revshit </a>
 
 <h2> // socials </h2>
+
 - <a href= "https://www.facebook.com/profile.php?id=100094965400799">Facebook</a>
 - <a href="https://discord.com/users/748741677522485281">Discord</a>
 - <a href="https://open.spotify.com/user/31ub2hi53a4q4oju5qeu4yk6xjwe">Spotify</a>
-
 <h2> // revshit </h2>
 <img src = "https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt = "lua"/>
 <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt = "python"/>
