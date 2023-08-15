@@ -1,5 +1,5 @@
 <p align = center >
-  <img src="https://cdn.discordapp.com/attachments/1132603422785413162/1140896697791299634/Revshit.gif">
+  <img src="https://media.discordapp.net/attachments/1115665221730713710/1115665355105374268/Untitled-1.png?width=932&height=524">
 </p>
 
 <div>
