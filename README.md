@@ -7,7 +7,7 @@
 
 <h2> // about-me </h2>
 
-- 💗 15 | Philippines
+- 💗  | Philippines
 - 🧊 <a href="https://discord.gg/revshit">Revshit </a>
 
 <h2> // socials </h2>
